@@ -1,7 +1,7 @@
 ## Welcome to 翠翔羽翥 Pages
-<HTML>
-  <center><FONTCOLOR="#ffffff">Under Construction ...</FONT></center>
-  </br></br>
+
+# Under Construction ...
+
 ## Header 2</br>
 ### Header 3</br>
 
