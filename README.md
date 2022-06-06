@@ -1,6 +1,6 @@
-## Welcome to 翠翔羽翥 Pages
+## Welcome to 翠翔羽翥 Pages</br>
 
-# Under Construction ...
+# Under Construction ...</br>
 
 ## Header 2</br>
 ### Header 3</br>
@@ -13,8 +13,5 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-
 </HTML> 
 
-[京ICP备2021002310号-1](https://beian.miit.gov.cn/)
